@@ -1,0 +1,6 @@
+{
+    "name" : "Gably --Production",
+    "mail" : {
+        "host" : "prod-mail-server"
+    }
+}

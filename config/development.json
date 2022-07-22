@@ -1,0 +1,6 @@
+{
+    "name" : "Gably --Development",
+    "mail" : {
+        "host" : "dev-mail-server"
+    }
+}

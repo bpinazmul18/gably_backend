@@ -1,0 +1,6 @@
+{
+    "name": "Gably --Default",
+    "dbURI": "mongodb://localhost:27017/gably_test",
+    "jwtPrivateKey": "123",
+    "port": "3001"
+}
