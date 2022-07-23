@@ -2,6 +2,7 @@
     "name": "Gably --Default",
     "dbURI": "mongodb://localhost:27017/gably",
     "jwtPrivateKey": "123",
+    "cookiePrivateKey": "123",
     "port": "3001",
     "requiresAuth": true
 }

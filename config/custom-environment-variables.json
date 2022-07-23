@@ -3,5 +3,6 @@
         "password" : "app_password"
     },
     "jwtPrivateKey": "gably_jwtPrivateKey",
+    "cookiePrivateKey": "gably_cookiePrivateKey",
     "dbURI": "gably_db"
 }
